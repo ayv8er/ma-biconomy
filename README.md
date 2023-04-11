@@ -1,6 +1,6 @@
 # Demo - Magic Auth + Biconomy 
 
-[Deployed app]()
+[Deployed app](https://ma-biconomy.vercel.app/)
 - Email OTP and SMS logins available
 - SMS login requires `+1` to be prepended to phone number (e.g. +18008675309)
 - `Login Credential` and `Wallet Address` provided by Magic SDK
